@@ -105,7 +105,6 @@ media
 rollout.sh
 environment.json
 collection.json
-.env
 reports
 tests/.pytest_cache
 .pytest_cache
